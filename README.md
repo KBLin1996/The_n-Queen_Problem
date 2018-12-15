@@ -32,7 +32,7 @@
 
 ### **Result: Genetic Algorithm (n=50, Iteration = 60000, Population Size = 60), Average Attack = 3.33333**
 
-![image](https://github.com/KBLin1996/The_n-Queen_Problem/blob/master/GA%20(n%3D8).png)
+![image](https://github.com/KBLin1996/The_n-Queen_Problem/blob/master/GA%20(n%3D50).png)
 
 ---
 
